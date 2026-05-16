@@ -1,5 +1,7 @@
 # 📊 K-LIFICAME — Sistema de Medición de Satisfacción
 
+![K-LIFICAME](./sources/img/Bienvenido%20Klificame%20Dark.png)
+
 K-LIFICAME fue un proyecto experimental universitario orientado a la recopilación y análisis de métricas de satisfacción al cliente mediante dispositivos físicos basados en ESP32 y una plataforma web de visualización estadística.
 
 El proyecto buscaba ofrecer a negocios una forma rápida e intuitiva de medir la percepción de atención al cliente utilizando la escala de Likert.
