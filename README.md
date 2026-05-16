@@ -16,6 +16,9 @@ El sistema estaba compuesto por:
 
 Un módulo basado en ESP32 con botones físicos que permitía a los clientes calificar la atención recibida.
 
+![K-LIFICAME](./assets/broshure%20klificame%20pag%201.png)
+![K-LIFICAME](./assets/ModuloFisico.png)
+
 ### 🔹 Plataforma web
 
 Sistema encargado de:
