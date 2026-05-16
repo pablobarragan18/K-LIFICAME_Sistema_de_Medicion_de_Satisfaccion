@@ -95,7 +95,6 @@ Uno de los principales enfoques del proyecto fue desarrollar una identidad visua
 
 ![K-LIFICAME](./assets/marca.png)
 ![K-LIFICAME](./sources/img/TrabajandoEnEllo.png)
-![K-LIFICAME](./sources/img/selloDark.png)
 
 ---
 
