@@ -6,6 +6,8 @@ K-LIFICAME fue un proyecto experimental universitario orientado a la recopilaci�
 
 El proyecto buscaba ofrecer a negocios una forma rápida e intuitiva de medir la percepción de atención al cliente utilizando la escala de Likert.
 
+![K-LIFICAME](./sources/img/Escala%20Likert.png)
+
 ---
 
 ## 🧠 Concepto General
@@ -29,6 +31,8 @@ Sistema encargado de:
 - mostrar gráficas de satisfacción
 - visualizar métricas de atención
 
+![K-LIFICAME](./assets/login.png)
+
 ---
 
 ## ⚡ Funcionalidades principales
@@ -39,6 +43,12 @@ Sistema encargado de:
 - Visualización gráfica de datos
 - Métricas de atención al cliente
 - Gestión básica de negocios
+
+![K-LIFICAME](./assets/Estadisticas%201.png)
+![K-LIFICAME](./assets/Estadisticas%202.png)
+![K-LIFICAME](./assets/Estadisticas%203.png)
+![K-LIFICAME](./assets/Estadisticas%204.png)
+![K-LIFICAME](./assets/Estadisticas%205.png)
 
 ---
 
@@ -51,6 +61,8 @@ El proyecto contemplaba además módulos experimentales orientados a:
 - personalización de formularios
 
 Sin embargo, algunas de estas funcionalidades quedaron en fase de prototipo debido al contexto académico y alcance inicial del proyecto.
+
+![K-LIFICAME](./assets/Encuestas.png)
 
 ---
 
@@ -80,6 +92,10 @@ Sin embargo, algunas de estas funcionalidades quedaron en fase de prototipo debi
 ## 🎨 Diseño e identidad visual
 
 Uno de los principales enfoques del proyecto fue desarrollar una identidad visual moderna y llamativa para facilitar la interacción con los usuarios y mejorar la experiencia general del sistema.
+
+![K-LIFICAME](./assets/marca.png)
+![K-LIFICAME](./sources/img/TrabajandoEnEllo.png)
+![K-LIFICAME](./sources/img/selloDark.png)
 
 ---
 
